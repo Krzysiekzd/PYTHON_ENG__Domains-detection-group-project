@@ -2,7 +2,9 @@
 The goal of the project was to create an algorithm for detecting TADs in the Hi-C data with the best precision possible.  
 TADs (Topologically Associating Domains) are self-interacting genomic regions and detecting them is crucial for further development of research on the complex chromatin structure. Our initial goal was simple. We decided to analyze two different algorithms in more depth and possibly modify them. The final result was modified version of a TopDom algorithm, with additional *sensitivity* parameter that allows specifing how precisely TADs are detected.  
 Short summary can be found in **digest.pdf** file and longer description in **summary_record.pdf**. This project was part of the 4EU+ Alliance.  
-*Note: due to some technical issues I didn't make many commits to this repository. However, my code was commited by other team members.*
+This repository was copied from: https://github.com/meet-eu-21/Team-WA1  
+*Note: due to some technical issues I did not make many commits to the original repository. However, my code was commited by other team members.*  
+This project was created in cooperation with Leszek Troc (https://github.com/Lechuuu000), Sebastian Kot (https://github.com/kot-sebastian) and Ignacy Makowski (https://github.com/Ilidan).  
    
    
    
